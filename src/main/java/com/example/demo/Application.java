@@ -20,8 +20,8 @@ public class Application {
         logger.warn("This is a WARN message.");
         logger.error("This is an ERROR message.");
 
-        System.out.println(args[0] + "--" + args[1]);
-        System.out.println("APP_NAME: " + System.getenv("APP_NAME"));
+       //System.out.println(args[0] + "--" + args[1]);
+       // System.out.println("APP_NAME: " + System.getenv("APP_NAME"));
         SpringApplication.run(Application.class, args);
     }
 }
