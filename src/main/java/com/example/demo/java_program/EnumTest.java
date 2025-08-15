@@ -1,5 +1,5 @@
 package com.example.demo.java_program;
-
+// Thanks
 public class EnumTest {
     private enum Day {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
